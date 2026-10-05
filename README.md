@@ -1,11 +1,23 @@
+<div align="center">
+
+![Simple Calculator - Manual Testing Banner](assets/project_banner.jpg)
+
 # Simple Calculator Application - Manual Testing & Version Upgrading
 
 An interactive, menu-driven calculator developed in Python for the **Learning Manual Testing** course activity at **The Open University of Sri Lanka (OUSL)**.
 
-- **GitHub Repository:** [https://github.com/numair-it/simple-calculator](https://github.com/numair-it/simple-calculator)
-- **Author / Student:** numair-it (`numairking4712@gmail.com`)
-- **Activity Due Date:** 28.09.2026
-- **Current Version:** `v2.0.0` (Upgraded & Verified)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/numair-it/simple-calculator)
+[![Version](https://img.shields.io/badge/Release-v2.0.0-0A66C2?style=for-the-badge&logo=git&logoColor=white)](https://github.com/numair-it/simple-calculator/releases)
+[![Tests](https://img.shields.io/badge/Manual_Tests-20%2F20_Passed-2E7D32?style=for-the-badge&logo=checkmarx&logoColor=white)](https://github.com/numair-it/simple-calculator)
+[![Quality](https://img.shields.io/badge/Defects-All_5_Resolved-success?style=for-the-badge&logo=bugcrowd&logoColor=white)](https://github.com/numair-it/simple-calculator)
+
+<p align="center">
+  <b>GitHub Repository:</b> <a href="https://github.com/numair-it/simple-calculator">https://github.com/numair-it/simple-calculator</a><br>
+  <b>Author / Student:</b> numair-it (numairking4712@gmail.com)<br>
+  <b>Activity Due Date:</b> 28.09.2026 | <b>Version:</b> v2.0.0
+</p>
+
+</div>
 
 ---
 
